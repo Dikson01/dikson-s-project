@@ -1,2 +1,2 @@
-# dikson-s-project
-This is the project I made as an intern under Bharat Intern
+# dikson-s-project(weather)
+Thhis project show the weather of any city you are in or you want to know.
